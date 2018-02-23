@@ -1,7 +1,7 @@
-
+-
 # reports
 
-This repository contains two articles related to NER project and Ngrams project offered in this repository.
+This repository contains two articles related to `NER project` and `N-grams project` offered in this repository.
 
 They include:
 - implemention details
